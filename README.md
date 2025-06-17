@@ -1,5 +1,5 @@
 # Unity_Mangala_Game
-I re made the famous board game mangala in Unity
+I made the famous board game mangala in Unity
 
 
 https://github.com/user-attachments/assets/67864b6f-ac2a-486b-859c-9130a96728e4
